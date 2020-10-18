@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/stocks
+    username: postgres
+    password: 1qaz2wsx#EDC
+    pool-size: 30
